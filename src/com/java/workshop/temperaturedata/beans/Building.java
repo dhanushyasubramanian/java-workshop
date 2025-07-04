@@ -6,4 +6,4 @@ public class Building {
     private int floors;
     private String openDataTime;
     private String closeDataTime; 
-}
+}                                  
