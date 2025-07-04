@@ -17,4 +17,7 @@ public class Location {
     public String getName(){
         return name;
     } 
-}
+
+    public void setNames(double lantitude) {
+        latitude =alantitude
+    } 
