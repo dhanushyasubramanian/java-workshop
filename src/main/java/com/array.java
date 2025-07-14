@@ -1,4 +1,4 @@
-package src.com;
+package  com.array;
 
 public class array {
     public static void main(String[]args){
